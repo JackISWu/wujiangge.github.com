@@ -78,7 +78,11 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:wujiangge/wujiangge.github.io.git
+  branch: static
+  name: JianggeWu
+  email: jack11130311@gmail.com
 
 menu:
   home: /
