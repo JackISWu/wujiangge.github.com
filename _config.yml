@@ -80,7 +80,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:wujiangge/wujiangge.github.io.git
-  branch: static
+  branch: master 
   name: JianggeWu
   email: jack11130311@gmail.com
 
