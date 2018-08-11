@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jay's Blog
+title: Django's Blog
 subtitle:
-description: As a Programmer
-keywords:
-author: Jiangge Wu
+description: To be an Architect. As a Programmer.
+keywords: java mysql spring
+author: JianggeWu
 language: en
 timezone:
 
